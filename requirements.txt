@@ -6,3 +6,4 @@ numpy
 requests
 smartapi-python
 logzero
+websocket-client
