@@ -1,0 +1,7 @@
+aiohttp
+openai
+python-dotenv
+matplotlib
+numpy
+requests
+smartapi-python
